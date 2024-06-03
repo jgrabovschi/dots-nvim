@@ -1,3 +1,7 @@
+# Description
+
+This is a base configuration so don't expect it to be very fancy. You might want to install Nerd Fonts for it to show the characters corectly, choose any that you like: https://www.nerdfonts.com/font-downloads .
+
 # Installing neovim
     
 First you need to get neovim.
