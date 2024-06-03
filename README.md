@@ -44,7 +44,7 @@ First you need to get neovim.
   mv dots-nvim/ .config/nvim
   ```
 
-  It should work by now. Feel free to change the configuration and thinker with it.
+  It should work by now. Feel free to change the configuration and tinker with it.
 
     
 
