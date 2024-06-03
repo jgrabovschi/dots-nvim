@@ -26,7 +26,7 @@ First you need to get neovim.
   Then you can install neovim:
 
   ```sh
-  sudo snap install neovim --classic
+  sudo snap install nvim --classic
   ```
 
   For other distros or OS's there's the official guide: https://github.com/neovim/neovim/blob/master/INSTALL.md .
